@@ -7,4 +7,5 @@ Mini project using python
 
 - In this competition, Kagglers will develop models that identify and flag insincere questions. To date, Quora has employed both machine learning and manual review to address this problem. With your help, they can develop more scalable methods to detect toxic and misleading content.
 
+- lien : https://www.kaggle.com/abderahman/groupe-n-4
 
